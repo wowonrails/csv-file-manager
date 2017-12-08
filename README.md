@@ -1,4 +1,8 @@
-# Csv::File::Manager
+[![Build Status](https://semaphoreci.com/api/v1/wowonrails/csv-file-manager/branches/master/shields_badge.svg)](https://semaphoreci.com/wowonrails/csv-file-manager)
+[![Maintainability](https://api.codeclimate.com/v1/badges/ae4bf3b66198d867d41a/maintainability)](https://codeclimate.com/github/wowonrails/csv-file-manager/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/ae4bf3b66198d867d41a/test_coverage)](https://codeclimate.com/github/wowonrails/csv-file-manager/test_coverage)
+
+# Csv File Manager
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/csv/file/manager`. To experiment with that code, run `bin/console` for an interactive prompt.
 
